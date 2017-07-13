@@ -1,6 +1,6 @@
 # My Official Blog
 
-Through this project I would like to initialise my very first blog. Here I will start with an introduction about myself and will then incorporate my work at iXperience and and future projects in the blog.
+Through this project I would like to initialise my very first blog. Here I will start with an introduction about myself and will then incorporate my work at iXperience and and future projects in the blog. Check it out!
 
 ```
 
