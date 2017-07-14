@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "baseurl = \"/\"\nrelativeurls = true\nlanguageCode = \"en-us\"\ntitle = \"A Hugo website\"\ntheme = \"simple-a\"\ngoogleAnalytics = \"\"\ndisqusShortname = \"\"\nignoreFiles = [\"\\\\.Rmd$\", \"_files$\", \"_cache$\"]\n\n[permalinks]\n    post = \"/:year/:month/:day/:slug/\"\n\n[[menu.main]]\n    name = \"Paola Scaramuzzi\"\n    url = \"/about/\"\n[[menu.main]]\n    name = \"GitHub\"\n    url = \"https://github.com/rstudio/blogdown\"\n[[menu.main]]\n    name = \"Twitter\"\n    url = \"https://twitter.com/rstudio\"\n\n[params]\n    description = \"A website built through Hugo and blogdown.\"\n\n    # options for highlight.js (version, additional languages, and theme)\n    highlightjsVersion = \"9.11.0\"\n    highlightjsCDN = \"//cdn.bootcss.com\"\n    highlightjsLang = [\"r\", \"yaml\"]\n    highlightjsTheme = \"github\"\n\n    MathJaxCDN = \"//cdn.bootcss.com\"\n    MathJaxVersion = \"2.7.1\"\n\n    [params.logo]\n    url = \"logo.png\"\n    width = 50\n    height = 50\n    alt = \"Logo\"\n\n",
+    "created" : 1499951577838.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1738458144",
+    "id" : "78604357",
+    "lastKnownWriteTime" : 1500030957,
+    "last_content_update" : 1500030957,
+    "path" : "C:/Users/Paola/Desktop/iX Data Science/My_Official_Blog/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: 'Paola in South Africa: an unreal experience'\nauthor: ~\ndate: '2017-07-13'\nslug: paola-in-south-africa-an-unreal-experience\ncategories: [\"My trips\"]\ntags: [\"Cape Town\",\"South Africa\",\"iXperience\",\"Data Science\"]\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(collapse = TRUE)\n```\n\n## My first time in Africa\n\nSo here I am, for the first time in my life I am visiting Africa. On June 27th the plane landed in Cape Town, and as I step in this new, unknown country I feel a sense of thrill in me! After such a long trip I am not only ready to explore the city and its surroundings areas, but I am also super excited to kick off with my new learning experience in Data Science and coding.\n\n# My first impressions\nI will not lie, my first impressions on Cape Town has been of a socially complex city. As I drive to my accommodation I see from far some townships, while I approach the richer areas. This is certainly something I will never forget.\nEveryone seems to be extremely friendly here, from my colleagues at iXperience to the locals. \n\n# First few shots of the city\n![Cape Town from Lion's Head](/Users/Paola/Downloads/heyhey2.jpeg)\n\n\n![My first time ##ZIP LINING##](/Users/Paola/Downloads/heyhey1.jpeg)",
+    "created" : 1499947454317.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3779624772",
+    "id" : "E5A6DC50",
+    "lastKnownWriteTime" : 1500031946,
+    "last_content_update" : 1500031946177,
+    "path" : "C:/Users/Paola/Desktop/iX Data Science/My_Official_Blog/content/post/2017-07-13-paola-in-south-africa-an-unreal-experience.Rmd",
+    "project_path" : "content/post/2017-07-13-paola-in-south-africa-an-unreal-experience.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

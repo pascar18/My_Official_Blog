@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "devtools::install_github('rstudio/blogdown')\nblogdown::new_site()\nblogdown::new_post(\"Paola in South Africa: an unreal experience\", rmd = TRUE)\nblogdown::install_theme('AlexFinn/simple-a')\n",
+    "created" : 1499944649423.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1170964396",
+    "id" : "21A2B9FC",
+    "lastKnownWriteTime" : 29555074425421935,
+    "last_content_update" : 1500031031236,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
