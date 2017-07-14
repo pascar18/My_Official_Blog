@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on A Hugo website</title>
+      <title>Tags on A Hugo website </title>
     <link>/tags/</link>
-    <description>Recent content in Tags on A Hugo website</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <author>Alexander Ivanov</author>
+    <updated>2017-07-13 00:00:00 &#43;0000 UTC</updated>
     
     <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
+      <title>Cape Town</title>
+      <link>/tags/cape-town/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 UTC</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>/tags/cape-town/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
+      <title>Data Science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 UTC</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
+      <title>Ixperience</title>
+      <link>/tags/ixperience/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 UTC</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>/tags/ixperience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South Africa</title>
+      <link>/tags/south-africa/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 UTC</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>/tags/south-africa/</guid>
       <description></description>
     </item>
     
