@@ -11,7 +11,7 @@ tags: ["Cape Town","South Africa","iXperience","Data Science"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# My first time in Africa
+## My first time in Africa
 
 So here I am, for the first time in my life I am visiting Africa. On June 27th the plane landed in Cape Town, and as I step in this new, unknown country I feel a sense of thrill in me! After such a long trip I am not only ready to explore the city and its surroundings areas, but I am also super excited to kick off with my new learning experience in Data Science and coding.
 
@@ -20,5 +20,7 @@ I will not lie, my first impressions on Cape Town has been of a socially complex
 Everyone seems to be extremely friendly here, from my colleagues at iXperience to the locals. 
 
 # First few shots of the city
-![Cape Town from Lion's Head](C:\Users\Paola\Downloads\heyhey2.jpeg)
-![My first time ##ZIP LINING##](C:\Users\Paola\Downloads\heyhey2.jpeg)
+![Cape Town from Lion's Head](/Users/Paola/Downloads/heyhey2.jpeg)
+
+
+![My first time ##ZIP LINING##](/Users/Paola/Downloads/heyhey1.jpeg)
